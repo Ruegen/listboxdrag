@@ -1,0 +1,9 @@
+.list-item {
+    background: #ccc;
+    background: linear-gradient(0deg, lightgrey 20%,snow 100%); /* w3c */    
+    border-radius: .2em;
+    margin-top: .2em;
+    box-sizing: border-box;
+    padding: 4px;
+
+}
